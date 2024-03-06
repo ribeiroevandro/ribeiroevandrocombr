@@ -1,27 +1,7 @@
 {
-  "commit": "4ce442ebe80e78f28ef0165ccd9e8898a362f043",
-  "generated": "Wed, 06 Mar 2024 19:50:14 GMT",
+  "commit": "00e7af371a94c10d0e65258f699f2d882c1f2d65",
+  "generated": "2024-03-06T20:22:10.874Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "72f75f5b3ae5aba161533a4be9a4376502fccffd",
-        "hash": "893161976",
-        "path": "outstatic/content/posts/post-in-localhost.md"
-      },
-      "author": {
-        "name": "Evandro Ribeiro",
-        "picture": "https://avatars.githubusercontent.com/u/943553?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-03-06T19:22:22.270Z",
-      "slug": "post-in-localhost",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "Post in Localhost"
-    },
     {
       "__outstatic": {
         "commit": "d755f3a357261765b858f247f292eca02387072b",
