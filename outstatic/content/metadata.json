@@ -1,6 +1,6 @@
 {
-  "commit": "5f34f825acb953f31e010846c27309654ac5222f",
-  "generated": "Wed, 06 Mar 2024 17:41:57 GMT",
+  "commit": "925cc460957c28ed8326c5e6520b91a416cfac47",
+  "generated": "2024-03-06T17:43:04.021Z",
   "metadata": [
     {
       "__outstatic": {
@@ -36,37 +36,6 @@
       "slug": "nothing-wrong",
       "status": "published",
       "title": "Nothing is wrong. Everything is perfect"
-    },
-    {
-      "__outstatic": {
-        "commit": "525018a11c751fe66b5d0737807e67e06955cecd",
-        "hash": "2506648264",
-        "path": "outstatic/content/posts/how-to-create-an-outstatic-blog.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "posts",
-      "coverImage": "/images/jupiter-spaceship.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-07-14T02:34:02.322Z",
-      "slug": "how-to-create-an-outstatic-blog",
-      "status": "published",
-      "tags": [
-        {
-          "label": "NextJs",
-          "value": "nextJs"
-        },
-        {
-          "label": "GitHub",
-          "value": "gitHub"
-        },
-        {
-          "label": "Outstatic",
-          "value": "outstatic"
-        }
-      ],
-      "title": "Learn how to create your blog with Outstatic"
     },
     {
       "__outstatic": {
