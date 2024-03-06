@@ -1,6 +1,6 @@
 {
-  "commit": "5303760b97ddb30a90bd75c8b06bcb932b77092d",
-  "generated": "2024-03-06T17:55:08.982Z",
+  "commit": "021ab554901f5499b7d28fb0b9f4c2c0d63f0d83",
+  "generated": "2024-03-06T19:40:51.197Z",
   "metadata": [
     {
       "__outstatic": {
@@ -118,6 +118,26 @@
       "slug": "the-wrong-decision",
       "status": "published",
       "title": "If you want to make the wrong decision, ask everyone"
+    },
+    {
+      "__outstatic": {
+        "commit": "021ab554901f5499b7d28fb0b9f4c2c0d63f0d83",
+        "hash": "893161976",
+        "path": "outstatic/content/posts/post-in-localhost.md"
+      },
+      "author": {
+        "name": "Evandro Ribeiro",
+        "picture": "https://avatars.githubusercontent.com/u/943553?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-06T19:22:22.270Z",
+      "slug": "post-in-localhost",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Post in Localhost"
     }
   ]
 }
