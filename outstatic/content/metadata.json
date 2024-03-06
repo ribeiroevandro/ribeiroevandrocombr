@@ -1,6 +1,6 @@
 {
   "commit": "925cc460957c28ed8326c5e6520b91a416cfac47",
-  "generated": "2024-03-06T17:43:12.517Z",
+  "generated": "2024-03-06T17:43:16.047Z",
   "metadata": [
     {
       "__outstatic": {
@@ -122,22 +122,20 @@
     },
     {
       "__outstatic": {
-        "commit": "ce6e01e2672bde1ebbfb225121da35f0b07daefb",
-        "hash": "3556139388",
-        "path": "outstatic/content/posts/um-novo-post.md"
+        "commit": "998b7f74af83e46bbdb4ab5302c8e4c39963278f",
+        "hash": "3707858083",
+        "path": "outstatic/content/posts/the-wrong-decision.md"
       },
       "author": {
-        "name": "Evandro Ribeiro",
-        "picture": "https://avatars.githubusercontent.com/u/943553?v=4"
+        "name": "Naval Ravikant"
       },
       "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-03-06T17:15:11.565Z",
-      "slug": "um-novo-post",
-      "status": "draft",
-      "tags": "",
-      "title": "Um novo post"
+      "coverImage": "/images/skyline.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+      "publishedAt": "2022-03-26T05:35:07.322Z",
+      "slug": "the-wrong-decision",
+      "status": "published",
+      "title": "If you want to make the wrong decision, ask everyone"
     }
   ]
 }
