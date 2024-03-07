@@ -1,6 +1,6 @@
 ---
 title: 'DevSpace Work'
-status: 'draft'
+status: 'published'
 author:
   name: 'Evandro Ribeiro'
   picture: 'https://avatars.githubusercontent.com/u/943553?v=4'
