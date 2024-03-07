@@ -1,7 +1,25 @@
 {
-  "commit": "8199a2077369a8864aeb98fe050871e15dc24364",
-  "generated": "2024-03-07T01:51:41.994Z",
+  "commit": "ed95b906cdce1ac704ec2096655e9ffc31be2632",
+  "generated": "Thu, 07 Mar 2024 01:59:03 GMT",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "f04266b99368519e3e78b28b364fca5cef196620",
+        "hash": "1410900105",
+        "path": "outstatic/content/projects/devspace-work.md"
+      },
+      "author": {
+        "name": "Evandro Ribeiro",
+        "picture": "https://avatars.githubusercontent.com/u/943553?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-06T23:43:00.951Z",
+      "slug": "devspace-work",
+      "status": "published",
+      "title": "DevSpace Work"
+    },
     {
       "__outstatic": {
         "commit": "d755f3a357261765b858f247f292eca02387072b",
@@ -19,24 +37,6 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
-    },
-    {
-      "__outstatic": {
-        "commit": "8199a2077369a8864aeb98fe050871e15dc24364",
-        "hash": "1410900105",
-        "path": "outstatic/content/projects/devspace-work.md"
-      },
-      "author": {
-        "name": "Evandro Ribeiro",
-        "picture": "https://avatars.githubusercontent.com/u/943553?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-03-06T23:43:00.951Z",
-      "slug": "devspace-work",
-      "status": "published",
-      "title": "DevSpace Work"
     }
   ]
 }
