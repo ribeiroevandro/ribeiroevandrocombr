@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/943553?v=4'
 slug: 'devspace-work'
 description: ''
-coverImage: ''
+coverImage: '/images/cover-YwMj.png'
 publishedAt: '2024-03-06T23:43:00.951Z'
 ---
 
