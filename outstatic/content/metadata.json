@@ -1,6 +1,6 @@
 {
   "commit": "a8970c3d69531c45e956d381c87484c15bea53ce",
-  "generated": "2024-03-09T04:45:20.780Z",
+  "generated": "2024-03-09T05:26:57.048Z",
   "metadata": [
     {
       "__outstatic": {
@@ -23,7 +23,7 @@
     {
       "__outstatic": {
         "commit": "a8970c3d69531c45e956d381c87484c15bea53ce",
-        "hash": "3621382172",
+        "hash": "710777240",
         "path": "outstatic/content/projects/devspace-work.md"
       },
       "author": {
@@ -31,8 +31,8 @@
         "picture": "https://avatars.githubusercontent.com/u/943553?v=4"
       },
       "collection": "projects",
-      "coverImage": "/images/cover-YwMj.png",
-      "description": "",
+      "coverImage": "/images/cover-E2MT.png",
+      "description": "Ah sim, faltou essa bonita aqui",
       "publishedAt": "2024-03-06T23:43:00.951Z",
       "slug": "devspace-work",
       "status": "published",
