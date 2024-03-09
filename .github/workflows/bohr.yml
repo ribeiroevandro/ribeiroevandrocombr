@@ -1,0 +1,18 @@
+name: bohr.io deploy
+on: 
+  push:
+  repository_dispatch:
+    types: [bohr-dispatch]
+permissions: write-all
+jobs:
+  deploy:
+    name: Deploy on bohr.io
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20.x'
+      - name: Install dependencies
+        run: yarn
+      - uses: bohr-io/action@main
